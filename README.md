@@ -12,3 +12,15 @@ and read the body of your note. All of that will be done with the command line.
 * To add a new note you would need to use this command:
 
 **node app.js add --title="YOUR TITLE" --body="YOUR BODY"**
+
+* To remove a note you would need to use this command:
+
+**node app.js remove --title="TITLE TO REMOVE"**
+
+* To list all notes you would need to use this command:
+
+**node app.js list**
+
+* To read a note you would need to use this command:
+
+**node app.js read --title="TITLE"**

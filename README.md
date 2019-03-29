@@ -9,6 +9,6 @@ With this application you would be able to add a new note to your JSON file, del
 and read the body of your note. All of that will be done with the command line.
 
 
-  *To add a new note you would need to use this command:
+* To add a new note you would need to use this command:
 
 **node app.js add --title="YOUR TITLE" --body="YOUR BODY"**
